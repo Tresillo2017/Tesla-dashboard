@@ -2,6 +2,9 @@
 
 ## So I decided to made my first dashboard for beamng drive. This is in an early stage so isn't what the final version gonna look like.
 
+![Screenshot 2023-01-30 003202](https://user-images.githubusercontent.com/56476330/215863532-504cab80-c2ff-4cad-aedf-73470c96bc95.png)
+
+
 ### To do:
 - [x] Speedometer
 - [x] Blinkers
