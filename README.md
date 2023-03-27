@@ -2,13 +2,13 @@
 
 ## So I decided to made my first dashboard for beamng drive. This is in an early stage so isn't what the final version gonna look like.
 
-![Screenshot 2023-01-30 003202](https://user-images.githubusercontent.com/56476330/215863532-504cab80-c2ff-4cad-aedf-73470c96bc95.png)
+![image](https://user-images.githubusercontent.com/56476330/218568402-76d0a5c6-bf24-42b3-8d39-20923e83a19e.png)
 
 
 ### To do:
 - [x] Speedometer
 - [x] Blinkers
-- [ ] Music (i'm gonna add later music control and volume)
+- [X] Music (now is showing the music name)
 - [ ] RPM (i'll make more good looking in the future)
 - [x] Low fuel warning
 - [ ] Car Settings (WIP)
