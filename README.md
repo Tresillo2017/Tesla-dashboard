@@ -8,12 +8,12 @@
 ### To do:
 - [x] Speedometer
 - [x] Blinkers
-- [X] Music (now is showing the music name)
+- [X] Music (now is showing the music name, and controls work)
 - [ ] RPM (i'll make more good looking in the future)
 - [x] Low fuel warning
 - [ ] Car Settings (WIP)
 - [ ] Fan Settings (for instance is not functional)
-- [ ] Map (is the ET2 map since beamng drive don't support it)
+- [ ] Map (i'm looking a way to implement it, for instance it's not working)
 - [x] Fuel remaining
 
 This version only displays the essentials and is a proof of concept.
