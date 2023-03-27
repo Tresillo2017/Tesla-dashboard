@@ -2,7 +2,7 @@
 
 ## So I decided to made my first dashboard for beamng drive. This is in an early stage so isn't what the final version gonna look like.
 
-![image](https://user-images.githubusercontent.com/56476330/218568402-76d0a5c6-bf24-42b3-8d39-20923e83a19e.png)
+![image](https://tesladashboard.tomasps.tk/607shots_so.png)
 
 
 ### To do:
