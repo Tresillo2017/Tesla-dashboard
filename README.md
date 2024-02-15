@@ -1,5 +1,5 @@
 # Tesla dashboard for beamng drive
-
+![Status](https://status.tomasps.com/api/badge/13/status?style=for-the-badge)
 ## So I decided to made my first dashboard for beamng drive. This is in an early stage so isn't what the final version gonna look like.
 
 ![image](https://tesladashboard.tomasps.tk/607shots_so.png)
